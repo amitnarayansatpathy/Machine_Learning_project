@@ -4,7 +4,6 @@
 #  ML for SDGs — Air Quality Prediction (Team 18)
 
 > **BITS F464 – Machine Learning | Semester 1**
-> Project under the *Machine Learning for Sustainable Development Goals (SDGs)* initiative.
 
 ---
 
